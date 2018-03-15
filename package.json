@@ -1,0 +1,31 @@
+{
+  "name": "fp-spotify",
+  
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khyati-k/fp-spotify-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khyati-k/fp-spotify-app/issues"
+  },
+  "homepage": "https://github.com/khyati-k/fp-spotify-app#readme",
+  "dependencies": {
+    "data.either": "^1.5.1",
+    "data.task": "^3.1.1",
+    "ramda": "^0.25.0",
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2"
+  },
+  "devDependencies": {
+    "eslint": "^4.18.2",
+    "eslint-plugin-fp": "^2.3.0"
+  }
+}
